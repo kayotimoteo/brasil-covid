@@ -1,0 +1,15 @@
+.navbar{
+  display: flex;
+  justify-content: center;
+
+  /* width: 62%; */
+  height: 61px;
+  
+  background: #232931;
+  border: 12px solid #232931;
+  border-radius: 0 0 12px 12px;
+}
+
+.navbar h1 {
+  color: #EEEEEE;
+}

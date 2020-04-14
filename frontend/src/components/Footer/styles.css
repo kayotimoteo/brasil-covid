@@ -1,0 +1,36 @@
+/* .footer {
+  margin-top: 75px;
+  width: 62%;
+   height: 100vh;
+  align-items: flex-end;
+
+  border-radius: 12px 12px 0 0;
+  
+  background: #232931;
+}
+.link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  margin-top: 15px;
+  font-size: 15px;
+  line-height: 25px;
+  color: #4ECCA3;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+a {
+  font-size: 20px;
+  color: #4ECCA3;
+}
+a:first-child {
+  margin-right: 60px;
+  margin-left: 100px; 
+} */
