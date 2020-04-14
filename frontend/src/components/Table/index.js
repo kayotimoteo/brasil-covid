@@ -8,13 +8,12 @@ export default function Table() {
   useEffect(() => {
     api.get('provinces').then(response => {
       setProvinces(response.data)
-      console.log(response.data);
     });
   }, []);
 
   return(
     <>
-    <p className="title">Casos por Estado</p>
+    <p className="title">Casos por Estados</p>
     <div className="tableFixHead" id="style-1">
     <table>
       <thead>
