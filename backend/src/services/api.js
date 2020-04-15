@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const api = axios.create({
-  baseURL: 'https://covid19-brazil-api.now.sh',
+  baseURL: process.env.URL_API
 });
 
 module.exports = api;
