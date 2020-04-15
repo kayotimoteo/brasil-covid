@@ -12,7 +12,6 @@ function App() {
   
   return (
     <div className="flex-container">
-      {/* <div className="flex-container"> */}
       <div className="content">
         <Header title={"COVID-19 - BRASIL"}/>
         <Main>
@@ -23,8 +22,6 @@ function App() {
       <div className="footer1">
         <Footer/>
       </div>
-        
-      {/* </div> */}
     </div>
   );
 }
